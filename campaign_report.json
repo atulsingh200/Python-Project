@@ -1,1 +1,144 @@
-
+{
+    "date": "2024-12-10 06:58:35.694052",
+    "actions_taken": [
+        {
+            "Campaign ID": "Campaign_1",
+            "Action": "Increase Budget",
+            "Reason": "High ROAS"
+        },
+        {
+            "Campaign ID": "Campaign_4",
+            "Action": "Increase Budget",
+            "Reason": "High ROAS"
+        },
+        {
+            "Campaign ID": "Campaign_5",
+            "Action": "Pause",
+            "Reason": "Low CTR"
+        },
+        {
+            "Campaign ID": "Campaign_8",
+            "Action": "Increase Budget",
+            "Reason": "High ROAS"
+        },
+        {
+            "Campaign ID": "Campaign_10",
+            "Action": "Increase Budget",
+            "Reason": "High ROAS"
+        }
+    ],
+    "llm_insights": [
+        {
+            "Campaign ID": "Campaign_1",
+            "Insight": "Ad copy: Sample ad text for campaign 2 CTR: 0.10 ROAS: 13.10 CPA: 0.68"
+        },
+        {
+            "Campaign ID": "Campaign_2",
+            "Insight": "Ad copy: Sample ad text for campaign 3 CTR: 0.19 ROAS: 3.88 CPA: 0.77"
+        },
+        {
+            "Campaign ID": "Campaign_3",
+            "Insight": "Ad copy: Sample ad text for campaign 4 CTR: 0.03 ROAS: 2.70 CPA: 0.09"
+        },
+        {
+            "Campaign ID": "Campaign_4",
+            "Insight": "Ad copy: Sample ad text for campaign 4 CTR: 0.02 ROAS: 9.68 CPA: 0.73"
+        },
+        {
+            "Campaign ID": "Campaign_5",
+            "Insight": "Ad copy: Sample ad text for campaign 5 CTR: 0.01 ROAS: 3.36 CPA: 1.77"
+        },
+        {
+            "Campaign ID": "Campaign_6",
+            "Insight": "Ad copy: Sample ad text for campaign 6 CTR: 0.02 ROAS: 3.20 CPA: 9.35"
+        },
+        {
+            "Campaign ID": "Campaign_7",
+            "Insight": "Ad copy: Sample ad text for campaign 8 CTR: 0.08 ROAS: 2.78 CPA: 0.76"
+        },
+        {
+            "Campaign ID": "Campaign_8",
+            "Insight": "Ad copy: Sample ad text for campaign 8 CTR: 0.39 ROAS: 13.37 CPA: 3.90"
+        },
+        {
+            "Campaign ID": "Campaign_9",
+            "Insight": "Ad copy: Sample ad text for campaign 9 CTR: 0.11 ROAS: 2.00 CPA: 5.65"
+        },
+        {
+            "Campaign ID": "Campaign_10",
+            "Insight": "Ad copy: Sample ad text for campaign 10 CTR: 0.09 ROAS: 11.42 CPA: 0.67"
+        }
+    ],
+    "updated_campaigns": [
+        {
+            "Campaign ID": "Campaign_1",
+            "Status": "Active",
+            "Spend": 307.7377143245387,
+            "CTR": 0.09772951628825272,
+            "ROAS": 13.101891904464095
+        },
+        {
+            "Campaign ID": "Campaign_2",
+            "Status": "Active",
+            "Spend": 727.8285782363457,
+            "CTR": 0.19191148416634873,
+            "ROAS": 3.875628821348242
+        },
+        {
+            "Campaign ID": "Campaign_3",
+            "Status": "Active",
+            "Spend": 896.1088297834407,
+            "CTR": 0.027573529411764705,
+            "ROAS": 2.704306851110853
+        },
+        {
+            "Campaign ID": "Campaign_4",
+            "Status": "Active",
+            "Spend": 357.04766079690495,
+            "CTR": 0.020788010635726373,
+            "ROAS": 9.677276473238559
+        },
+        {
+            "Campaign ID": "Campaign_5",
+            "Status": "Paused",
+            "Spend": 871.8915331348933,
+            "CTR": 0.007378939277478862,
+            "ROAS": 3.3646479349975555
+        },
+        {
+            "Campaign ID": "Campaign_6",
+            "Status": "Active",
+            "Spend": 878.622658680075,
+            "CTR": 0.016438941076003417,
+            "ROAS": 3.1969285740373192
+        },
+        {
+            "Campaign ID": "Campaign_7",
+            "Status": "Active",
+            "Spend": 812.9417508114026,
+            "CTR": 0.08306437914047902,
+            "ROAS": 2.7813408196980545
+        },
+        {
+            "Campaign ID": "Campaign_8",
+            "Status": "Active",
+            "Spend": 313.3667699020302,
+            "CTR": 0.38738357324301437,
+            "ROAS": 13.372238496029185
+        },
+        {
+            "Campaign ID": "Campaign_9",
+            "Status": "Active",
+            "Spend": 757.0159906668387,
+            "CTR": 0.10673880964092475,
+            "ROAS": 1.9967059405926741
+        },
+        {
+            "Campaign ID": "Campaign_10",
+            "Status": "Active",
+            "Spend": 385.8008055781516,
+            "CTR": 0.08618654073199528,
+            "ROAS": 11.418804876498156
+        }
+    ]
+}
